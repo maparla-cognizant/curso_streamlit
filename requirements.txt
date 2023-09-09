@@ -1,0 +1,12 @@
+streamlit==1.26.0
+langchain==0.0.273
+chromadb==0.3.26
+sentence_transformers==2.2.2
+pypdf==3.15.5
+openai==0.27.9
+torch==2.0.1
+plotly==5.16.1
+streamlit-drawable-canvas==0.9.3
+opencv-python==4.7.0.72
+pydantic==1.10.9
+pandas==2.0.2
